@@ -1,3 +1,2 @@
 # Gridmaker
-
-http://127.0.0.1:5500/Gridmaker/grid.html
+https://j-as0n.github.io/Gridmaker/
