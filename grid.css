@@ -1,0 +1,39 @@
+tr, td {
+    border: 1px;
+    border-style: solid;
+}
+
+td {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+}
+
+
+.buttons {
+    display: flex;  /* Displays the buttons horizontally /
+    gap: 10px;      / Adjust the spacings between each button /
+}
+
+.buttons button {   / Styles all <button> elements within the '.buttons' div */
+    padding: 14px;
+    border-radius: 10px;
+    border-color: none;
+    border: none;
+    cursor: pointer;
+    background-color:lightgrey;
+
+}
+.buttons button:hover {
+    background-color: lightgreen;
+
+}
+
+.select {
+    text-align: center;
+    border-radius: 10px;
+    border-color: none;
+    border: 1px;
+    cursor: pointer;
+    background: rgb(83, 211, 254);
+}
