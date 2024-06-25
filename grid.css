@@ -11,11 +11,11 @@ td {
 
 
 .buttons {
-    display: flex;  /* Displays the buttons horizontally /
-    gap: 10px;      / Adjust the spacings between each button /
+    display: flex;  /* Displays the buttons horizontally */
+    gap: 10px;      /* Adjust the spacings between each button */
 }
 
-.buttons button {   / Styles all <button> elements within the '.buttons' div */
+.buttons button {   /* Styles all <button> elements within the '.buttons' div */
     padding: 14px;
     border-radius: 10px;
     border-color: none;
