@@ -13,6 +13,7 @@ td {
 .buttons {
     display: flex;  /* Displays the buttons horizontally */
     gap: 10px;      /* Adjust the spacings between each button */
+    margin-bottom: 15px;
 }
 
 .buttons button {   /* Styles all <button> elements within the '.buttons' div */
@@ -36,4 +37,8 @@ td {
     border: 1px;
     cursor: pointer;
     background: rgb(83, 211, 254);
+}
+
+body {
+    background-color: black;
 }
